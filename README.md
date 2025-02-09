@@ -1,0 +1,2 @@
+# RecursionError in Python
+This repository demonstrates a common error in Python programming: the `RecursionError: maximum recursion depth exceeded` error. This error occurs when a recursive function calls itself too many times, exceeding the maximum recursion depth allowed by Python.  The provided code shows an example of this error, and its solution involves optimizing the recursive approach or using an iterative approach to avoid exceeding recursion depth limitations.
